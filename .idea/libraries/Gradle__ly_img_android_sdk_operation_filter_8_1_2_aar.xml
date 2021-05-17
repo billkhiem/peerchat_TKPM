@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: ly.img.android.sdk.operation:filter:8.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/100f85a5d27ac840fe9821db9666a19c/jetified-filter-8.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/100f85a5d27ac840fe9821db9666a19c/jetified-filter-8.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/100f85a5d27ac840fe9821db9666a19c/jetified-filter-8.1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4794c31e369d9b268f3d044b0537ef21/jetified-filter-8.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4794c31e369d9b268f3d044b0537ef21/jetified-filter-8.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4794c31e369d9b268f3d044b0537ef21/jetified-filter-8.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/504563d938129445f20d6c8656a528a9/jetified-filter-8.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/504563d938129445f20d6c8656a528a9/jetified-filter-8.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/504563d938129445f20d6c8656a528a9/jetified-filter-8.1.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

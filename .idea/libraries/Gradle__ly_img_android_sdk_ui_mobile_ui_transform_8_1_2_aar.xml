@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: ly.img.android.sdk.ui.mobile_ui:transform:8.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3544d8577f7ca0e21d95af446b4cf228/jetified-transform-8.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3544d8577f7ca0e21d95af446b4cf228/jetified-transform-8.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3544d8577f7ca0e21d95af446b4cf228/jetified-transform-8.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09b31058abd0195a31fb831ca7c87b16/jetified-transform-8.1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09b31058abd0195a31fb831ca7c87b16/jetified-transform-8.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09b31058abd0195a31fb831ca7c87b16/jetified-transform-8.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/61a1c0de9d3235f9f3adfd5cd058364a/jetified-transform-8.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/61a1c0de9d3235f9f3adfd5cd058364a/jetified-transform-8.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/61a1c0de9d3235f9f3adfd5cd058364a/jetified-transform-8.1.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

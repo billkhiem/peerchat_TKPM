@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: ly.img.android.sdk.ui.mobile_ui:adjustment:8.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/badf4669927152a4b74f767e5039987a/jetified-adjustment-8.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/badf4669927152a4b74f767e5039987a/jetified-adjustment-8.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/badf4669927152a4b74f767e5039987a/jetified-adjustment-8.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/049ba04d5c7d0b8c650905c203b414ff/jetified-adjustment-8.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/049ba04d5c7d0b8c650905c203b414ff/jetified-adjustment-8.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/049ba04d5c7d0b8c650905c203b414ff/jetified-adjustment-8.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1006058b03100af440e88b31cbea3e8c/jetified-adjustment-8.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1006058b03100af440e88b31cbea3e8c/jetified-adjustment-8.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1006058b03100af440e88b31cbea3e8c/jetified-adjustment-8.1.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: ly.img.android.sdk:serializer:8.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cc4f799d3f85260d2dd4cb343327c41c/jetified-serializer-8.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cc4f799d3f85260d2dd4cb343327c41c/jetified-serializer-8.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cc4f799d3f85260d2dd4cb343327c41c/jetified-serializer-8.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a0813157285d05a4e70b0d2002a5934/jetified-serializer-8.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a0813157285d05a4e70b0d2002a5934/jetified-serializer-8.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a0813157285d05a4e70b0d2002a5934/jetified-serializer-8.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f2777f12dc030ab6697c050d71ca9ae3/jetified-serializer-8.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f2777f12dc030ab6697c050d71ca9ae3/jetified-serializer-8.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f2777f12dc030ab6697c050d71ca9ae3/jetified-serializer-8.1.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

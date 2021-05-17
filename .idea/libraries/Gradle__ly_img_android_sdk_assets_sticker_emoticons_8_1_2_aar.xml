@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: ly.img.android.sdk.assets:sticker-emoticons:8.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/69c8d593bf17459d5e3e3c4bc499bb9d/jetified-sticker-emoticons-8.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/69c8d593bf17459d5e3e3c4bc499bb9d/jetified-sticker-emoticons-8.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/69c8d593bf17459d5e3e3c4bc499bb9d/jetified-sticker-emoticons-8.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28f0f0b880829a565e6a781758c1e341/jetified-sticker-emoticons-8.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28f0f0b880829a565e6a781758c1e341/jetified-sticker-emoticons-8.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28f0f0b880829a565e6a781758c1e341/jetified-sticker-emoticons-8.1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b08d17093ad3906486ee368b27f4e3d/jetified-sticker-emoticons-8.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b08d17093ad3906486ee368b27f4e3d/jetified-sticker-emoticons-8.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b08d17093ad3906486ee368b27f4e3d/jetified-sticker-emoticons-8.1.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

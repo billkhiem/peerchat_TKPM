@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more_opts_background.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\drawable\\ic_more_opts_background.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\layout_avatar_select.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\avatar_select.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_default_avt.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxxhdpi\\default_avt.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_user.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\fragment_user.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_more_opts.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xhdpi\\ic_more_opts.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_mario_avt.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xhdpi\\mario_avt.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_mario_avt.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-anydpi-v26\\mario_avt.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_send_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-mdpi\\ic_send_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_mario_avt.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-mdpi\\mario_avt.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_send.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_send.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chat.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_default_avt_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xhdpi\\default_avt_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more_opts_foreground.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\drawable\\ic_more_opts_foreground.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_default_avt_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-mdpi\\default_avt_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_mario_avt_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-mdpi\\mario_avt_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_welcome.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\fragment_welcome.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_mario_avt_foreground.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xhdpi\\mario_avt_foreground.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_mario_avt_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxxhdpi\\mario_avt_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_send_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_send_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mario_avt_background.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\drawable\\mario_avt_background.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_send_background.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\drawable\\ic_send_background.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_send.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_send.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_screen.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\activity_main_screen.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_more_opts_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_more_opts_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_default_avt_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-hdpi\\default_avt_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_item.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\user_item.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_more_opts.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_more_opts.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_more_opts_round.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_more_opts_round.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_mario_avt_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-hdpi\\mario_avt_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_avatar.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\fragment_avatar.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_right.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\drawable\\background_right.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mario.jpg.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\drawable-v24\\mario.jpg"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_more_opts.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-mdpi\\ic_more_opts.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_more_opts.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_more_opts.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_more_opts.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_more_opts.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_more_opts_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-hdpi\\ic_more_opts_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_send_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_send_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_default_avt.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-anydpi-v26\\default_avt.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_send_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xhdpi\\ic_send_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\font_sweet_talk.otf.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\font\\sweet_talk.otf"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_send_round.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_send_round.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_mario_avt.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxxhdpi\\mario_avt.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_edit_text_border.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\drawable-v24\\edit_text_border.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_mario_avt_round.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-anydpi-v26\\mario_avt_round.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_mario_avt_foreground.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-hdpi\\mario_avt_foreground.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_avt_foreground.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\drawable\\default_avt_foreground.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_mario_avt.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-hdpi\\mario_avt.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_more_opts_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-mdpi\\ic_more_opts_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_send_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-hdpi\\ic_send_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_send_foreground.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\drawable\\ic_send_foreground.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_mario_avt_foreground.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxxhdpi\\mario_avt_foreground.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_send.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-mdpi\\ic_send.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_mario_avt_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xhdpi\\mario_avt_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mario_avt.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxhdpi\\mario_avt.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_default_avt.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-mdpi\\default_avt.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_more_opts_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xhdpi\\ic_more_opts_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_left.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\drawable\\background_left.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_default_avt.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxhdpi\\default_avt.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_send.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-hdpi\\ic_send.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_more_opts_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_more_opts_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_more_opts.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-hdpi\\ic_more_opts.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mario_avt_foreground.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxhdpi\\mario_avt_foreground.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_send.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xhdpi\\ic_send.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mario_avt_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxhdpi\\mario_avt_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_mario_avt_foreground.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-mdpi\\mario_avt_foreground.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_default_avt.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xhdpi\\default_avt.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_avt_background.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\drawable\\default_avt_background.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_image_editor.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\activity_image_editor.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_send.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_send.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_left.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\chat_item_left.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_message.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_right.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\chat_item_right.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_default_avt_round.xml.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-anydpi-v26\\default_avt_round.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_default_avt.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-hdpi\\default_avt.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_default_avt_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxxhdpi\\default_avt_round.png"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_default_avt_round.png.flat",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\mipmap-xxhdpi\\default_avt_round.png"
+    }
+]

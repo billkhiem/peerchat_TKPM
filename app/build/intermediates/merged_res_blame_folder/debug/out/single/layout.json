@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\user_item.xml",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\user_item.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\chat_item_right.xml",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\chat_item_right.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_message.xml",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_welcome.xml",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\fragment_welcome.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_image_editor.xml",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\activity_image_editor.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_user.xml",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\fragment_user.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_screen.xml",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\activity_main_screen.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_avatar.xml",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\fragment_avatar.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\chat_item_left.xml",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\chat_item_left.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_chat.xml",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "D:\\Mobile app\\peerchat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\avatar_select.xml",
+        "source": "D:\\Mobile app\\peerchat\\app\\src\\main\\res\\layout\\avatar_select.xml"
+    }
+]

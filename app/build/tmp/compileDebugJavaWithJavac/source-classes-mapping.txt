@@ -1,0 +1,74 @@
+com/example/peerchat/ChatFragment.java
+ com.example.peerchat.ChatFragment
+com/example/peerchat/databinding/FragmentWelcomeBinding.java
+ com.example.peerchat.databinding.FragmentWelcomeBinding
+com/example/peerchat/databinding/ActivityMessageBinding.java
+ com.example.peerchat.databinding.ActivityMessageBinding
+com/example/peerchat/MainScreenNavigationInterface.java
+ com.example.peerchat.MainScreenNavigationInterface
+com/example/peerchat/ViewPagerAdapter.java
+ com.example.peerchat.ViewPagerAdapter
+com/example/peerchat/User.java
+ com.example.peerchat.User
+com/example/peerchat/Chat.java
+ com.example.peerchat.Chat
+com/example/peerchat/WifiBroadcastReceiver.java
+ com.example.peerchat.WifiBroadcastReceiver
+com/example/peerchat/MainScreen.java
+ com.example.peerchat.MainScreen
+ com.example.peerchat.MainScreen$1
+com/example/peerchat/databinding/UserItemBinding.java
+ com.example.peerchat.databinding.UserItemBinding
+com/example/peerchat/MessageActivity.java
+ com.example.peerchat.MessageActivity
+ com.example.peerchat.MessageActivity$1
+com/example/peerchat/databinding/AvatarSelectBinding.java
+ com.example.peerchat.databinding.AvatarSelectBinding
+com/example/peerchat/MessageAdapter.java
+ com.example.peerchat.MessageAdapter
+ com.example.peerchat.MessageAdapter$ViewHolder
+com/example/peerchat/databinding/FragmentAvatarBinding.java
+ com.example.peerchat.databinding.FragmentAvatarBinding
+com/example/peerchat/dataHandler/PrefKey.java
+ com.example.peerchat.dataHandler.PrefKey
+com/example/peerchat/IMGLYEvents.java
+ com.example.peerchat.IMGLYEvents
+com/example/peerchat/UserAdapter.java
+ com.example.peerchat.UserAdapter
+ com.example.peerchat.UserAdapter$1
+ com.example.peerchat.UserAdapter$ViewHolder
+com/example/peerchat/UserFragment.java
+ com.example.peerchat.UserFragment
+ com.example.peerchat.UserFragment$1
+ com.example.peerchat.UserFragment$2
+com/example/peerchat/databinding/ActivityMainBinding.java
+ com.example.peerchat.databinding.ActivityMainBinding
+com/example/peerchat/databinding/ChatItemRightBinding.java
+ com.example.peerchat.databinding.ChatItemRightBinding
+com/example/peerchat/MainActivity.java
+ com.example.peerchat.MainActivity
+com/example/peerchat/dataHandler/UserDataManager.java
+ com.example.peerchat.dataHandler.UserDataManager
+com/example/peerchat/databinding/FragmentChatBinding.java
+ com.example.peerchat.databinding.FragmentChatBinding
+com/example/peerchat/BuildConfig.java
+ com.example.peerchat.BuildConfig
+ com.example.peerchat.BuildConfig$IMGLY_PROCESSOR_INIT
+com/example/peerchat/events/$EventAccessorMap.java
+ com.example.peerchat.events.$EventAccessorMap
+com/example/peerchat/ImageEditor.java
+ com.example.peerchat.ImageEditor
+com/example/peerchat/databinding/ActivityImageEditorBinding.java
+ com.example.peerchat.databinding.ActivityImageEditorBinding
+com/example/peerchat/databinding/ChatItemLeftBinding.java
+ com.example.peerchat.databinding.ChatItemLeftBinding
+com/example/peerchat/WelcomeFragment.java
+ com.example.peerchat.WelcomeFragment
+com/example/peerchat/AvatarFragment.java
+ com.example.peerchat.AvatarFragment
+com/example/peerchat/databinding/ActivityMainScreenBinding.java
+ com.example.peerchat.databinding.ActivityMainScreenBinding
+com/example/peerchat/databinding/FragmentUserBinding.java
+ com.example.peerchat.databinding.FragmentUserBinding
+com/example/peerchat/CurrentUser.java
+ com.example.peerchat.CurrentUser
